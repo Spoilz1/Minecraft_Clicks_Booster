@@ -1,6 +1,6 @@
 """
 Minecraft Dynamic Click Assist & Sensitivity Damper
-Author: Tohm Sachs
+Author: REDACTED
 """
 
 import time
